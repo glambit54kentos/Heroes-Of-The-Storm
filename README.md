@@ -206,3 +206,6 @@ This repository serves as the official landing page for Heroes of the Storm. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heroes of the Storm today!**
+
+---
+**Last updated:** 2026-11-07 08:16:31 UTC
